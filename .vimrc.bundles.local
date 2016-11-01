@@ -1,0 +1,3 @@
+"  required by neocomplete
+Bundle 'Konfekt/FastFold'
+Bundle 'Konfekt/FoldText'
